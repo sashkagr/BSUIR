@@ -1,0 +1,3 @@
+C:/Users/sashk/OneDrive/Документы/BSUIR 3 SEM/bonstic/labs-for-bonstic/untitled/cmake-build-debug/CMakeFiles/untitled.dir
+C:/Users/sashk/OneDrive/Документы/BSUIR 3 SEM/bonstic/labs-for-bonstic/untitled/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/sashk/OneDrive/Документы/BSUIR 3 SEM/bonstic/labs-for-bonstic/untitled/cmake-build-debug/CMakeFiles/rebuild_cache.dir
