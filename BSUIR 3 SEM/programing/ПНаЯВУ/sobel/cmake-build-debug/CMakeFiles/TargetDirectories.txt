@@ -1,3 +1,0 @@
-C:/Users/sashk/OneDrive/Pulpit/bonstic/sobel/cmake-build-debug/CMakeFiles/sobel.dir
-C:/Users/sashk/OneDrive/Pulpit/bonstic/sobel/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/sashk/OneDrive/Pulpit/bonstic/sobel/cmake-build-debug/CMakeFiles/rebuild_cache.dir

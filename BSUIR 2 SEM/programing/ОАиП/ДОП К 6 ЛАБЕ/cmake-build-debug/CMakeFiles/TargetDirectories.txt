@@ -1,3 +1,0 @@
-C:/Users/sashk/CLionProjects/untitled4_dop/cmake-build-debug/CMakeFiles/untitled4_dop.dir
-C:/Users/sashk/CLionProjects/untitled4_dop/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/sashk/CLionProjects/untitled4_dop/cmake-build-debug/CMakeFiles/rebuild_cache.dir
