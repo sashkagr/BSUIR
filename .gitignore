@@ -11,7 +11,7 @@
 .mtj.tmp/
 *.idea
 */other
-*/CMakeLists.txt
+*CMakeLists.txt
 # Package Files #
 *.jar
 *.war
